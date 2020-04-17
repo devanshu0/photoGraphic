@@ -1,4 +1,4 @@
-# photographer
+# photographic
 
 hello friends,
 my name is devanshu.
